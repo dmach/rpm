@@ -32,6 +32,8 @@
 #ifndef	_FTS_H
 #define	_FTS_H 1
 
+#include "system.h"
+
 #include <rpm/rpmutil.h>
 
 #if defined(__GLIBC__)

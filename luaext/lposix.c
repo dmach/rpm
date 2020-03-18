@@ -27,7 +27,7 @@
 #include <unistd.h>
 #include <utime.h>
 #include <rpm/rpmutil.h>
-#include "rpmio/rpmio_internal.h"
+#include "librpmio/rpmio_internal.h"
 
 #define MYNAME		"posix"
 #define MYVERSION	MYNAME " library for " LUA_VERSION " / Nov 2003"

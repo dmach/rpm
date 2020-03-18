@@ -3,6 +3,8 @@
    (REG_BASIC) */
 /* Reuben Thomas   nov00-06oct03 */
 
+#include "system.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
